@@ -28,6 +28,8 @@ url = "https://discord.gg/jQHHEj6dtW"
 title = "Art Credits"
 description = "See the main art I use, and who I commissioned them from"
 url = "https://230x.me/artcredit"
+[[sections.items]]
+image = "creditspage.png"
 
 [[sections]]
 title = "Socials"
