@@ -11,7 +11,7 @@ title = "Important Links"
 direction = "column"
 item_style = "outline"
 [[sections.items]]
-embed_url = "https://www.youtube.com/embed/yJvFi3-wOXk?si=1P1b-_lQZwFvpd1G"
+embed_url = "https://www.youtube.com/embed/yJvFi3-wOXk"
 [[sections.items]]
 title = "YouTube Channel"
 description = "Where I post most of my random garbage"
