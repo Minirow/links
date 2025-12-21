@@ -9,8 +9,8 @@ text_align = "center"
 [[sections]]
 title = "Important Links"
 direction = "column"
+item_style = "outline"
 [[sections.items]]
-title = "(Temporary) Channel Trailer"
 embed_url = "https://www.youtube.com/embed/yJvFi3-wOXk"
 [[sections.items]]
 title = "YouTube Channel"
