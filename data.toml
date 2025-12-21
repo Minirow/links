@@ -1,6 +1,7 @@
 name = "Minirow"
 description = "Random goober on the internet."
 keywords = "Minirow, YouTube, Discord, capybaras, capybara"
+base_url: links.230x.me
 image = "mini.png"
 theme = "dark"
 primary_color = "#f27fff"
