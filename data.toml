@@ -1,0 +1,38 @@
+name = "Minirow"
+description = "Random goober on the internet."
+keywords = "Minirow, YouTube, Discord, capybaras, capybara"
+image = "mini.png"
+theme = "dark"
+primary_color = "#f27fff"
+text_align = "center"
+
+[[sections]]
+title = "Important Links"
+[[sections.items]]
+title = "YouTube Channel"
+description = "Where I post most of my random garbage"
+url = "https://youtube.com/minirow"
+[[sections.items]]
+title = "Capyhub"
+description = "A Discord server dedicated to the best animal on Earth (capybaras)"
+url = "https://discord.gg/capybara"
+[[sections.items]]
+title = "Art Credits"
+description = "See the main art I use, and who I commissioned them from"
+url = "https://230x.me/artcredit"
+
+[[sections]]
+title = "Links"
+description = "You can also find me here"
+[[sections.items]]
+title = "Instagram"
+url = "https://www.instagram.com/minirow230x"
+[[sections.items]]
+title = "TikTok"
+url = "https://www.tiktok.com/@minirow"
+[[sections.items]]
+title = "YT Discord"
+url = "https://discord.gg/jQHHEj6dtW"
+[[sections.items]]
+title = "Hyperity"
+url = "https://hyperity.net"
