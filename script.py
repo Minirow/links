@@ -72,18 +72,6 @@ with open("data.toml", "rb") as f:
         )
     )
 
-    footer = frag(
-        h("footer", klass="container")(
-            h("small")("Generated with "),
-            h(
-                "a",
-                klass="",
-                href="https://github.com/thevahidal/jake/",
-                target="_blank",
-            )("Jake"),
-        ),
-    )
-
     output = html(lang="en", data_theme=data.get("theme", "dark"))(
         head,
         h("body")(
