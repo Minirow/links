@@ -13,11 +13,6 @@ direction = "column"
 item_style = "outline"
 
 [[sections.items]]
-title = "Pronouns.page"
-description = "Sussy extras"
-url = "https://en.pronouns.page/@Minirow"
-
-[[sections.items]]
 title = "YouTube Channel"
 description = "Where I post most of my random garbage"
 url = "https://youtube.com/minirow"
@@ -31,6 +26,11 @@ url = "https://discord.gg/capybara"
 title = "YT Discord"
 description = "The Discord server for my YouTube channel (derogatory)"
 url = "https://discord.gg/jQHHEj6dtW"
+
+[[sections.items]]
+title = "Pronouns.page"
+description = "Wouldn't you like to know, weather boy"
+url = "https://en.pronouns.page/@Minirow"
 
 [[sections.items]]
 title = "Art Credits"
