@@ -11,7 +11,7 @@ title = "Important Links"
 direction = "column"
 item_style = "outline"
 [[sections.items]]
-embed_url = "https://www.youtube.com/embed/yJvFi3-wOXk"
+embed_url = "https://www.youtube.com/embed/yJvFi3-wOXk?si=1P1b-_lQZwFvpd1G"
 [[sections.items]]
 title = "YouTube Channel"
 description = "Where I post most of my random garbage"
@@ -22,6 +22,7 @@ description = "A Discord server dedicated to the best animal on Earth (capybaras
 url = "https://discord.gg/capybara"
 [[sections.items]]
 title = "YT Discord"
+description = "The Discord server for my YouTube channel (derogatory)"
 url = "https://discord.gg/jQHHEj6dtW"
 [[sections.items]]
 title = "Art Credits"
@@ -31,18 +32,22 @@ url = "https://230x.me/artcredit"
 [[sections]]
 title = "Socials"
 description = "You can also find me here"
-direction = "row"
 item_style = "filled"
 icon_size = "30px"
+direction = "row"
 [[sections.items]]
 title = "Steam"
+icon = "https://cdn-icons-png.flaticon.com/128/15466/15466225.png"
 url = "https://steamcommunity.com/id/Minirow/"
 [[sections.items]]
 title = "Instagram"
+icon = "https://cdn-icons-png.flaticon.com/128/2111/2111463.png"
 url = "https://www.instagram.com/minirow230x"
 [[sections.items]]
 title = "TikTok"
+icon = "https://cdn-icons-png.flaticon.com/128/3046/3046121.png"
 url = "https://www.tiktok.com/@minirow"
 [[sections.items]]
 title = "Hyperity"
+icon = "https://hyperity.net/assets/images/hyperity-banner-iconography-425x111.webp"
 url = "https://hyperity.net"
