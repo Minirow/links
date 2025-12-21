@@ -72,6 +72,18 @@ with open("data.toml", "rb") as f:
         )
     )
 
+    footer = frag(
+        h("footer", klass="container")(
+            h("small")("Never hesitate to say "),
+            h(
+                "a",
+                klass="",
+                href="https://discord.gg/jQHHEj6dtW",
+                target="_blank",
+            )("hi!"),
+        ),
+    )
+
     output = html(lang="en", data_theme=data.get("theme", "dark"))(
         head,
         h("body")(
