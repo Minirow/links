@@ -11,6 +11,7 @@ title = "Important Links"
 direction = "column"
 item_style = "outline"
 [[sections.items]]
+title = "(Temporary) Channel Trailer"
 embed_url = "https://www.youtube.com/embed/yJvFi3-wOXk"
 [[sections.items]]
 title = "YouTube Channel"
@@ -27,9 +28,8 @@ url = "https://discord.gg/jQHHEj6dtW"
 [[sections.items]]
 title = "Art Credits"
 description = "See the main art I use, and who I commissioned them from"
-url = "https://230x.me/artcredit"
-[[sections.items]]
 image = "creditspage.png"
+url = "https://230x.me/artcredit"
 
 [[sections]]
 title = "Socials"
