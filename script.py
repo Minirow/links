@@ -78,7 +78,7 @@ with open("data.toml", "rb") as f:
             h(
                 "a",
                 klass="",
-                href="https://discord.gg/jQHHEj6dtW",
+                href="https://discord.gg/cbcmb9RTjV",
                 target="_blank",
             )("hi!"),
         ),
